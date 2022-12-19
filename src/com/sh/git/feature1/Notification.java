@@ -9,4 +9,9 @@ public class Notification {
 	public void setAlarm() {
 		
 	} // serAlarm() end
+	
+	public void changeTime() {
+		
+	} // changeTime() end
+	
 } // class end
