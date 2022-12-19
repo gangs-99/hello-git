@@ -15,6 +15,7 @@ public class Main {
 	
 	public void master() {
 		System.out.println("master!!!!");
+		System.out.println("origin/master에서 작성!!");
 	} // master() end
 
 	public static void main(String[] args) {
