@@ -12,6 +12,10 @@ package com.sh.git;
  *    	(Staged Changes에 올려줌.)
  */
 public class Main {
+	
+	public void master() {
+		
+	} // master() end
 
 	public static void main(String[] args) {
 		System.out.println("Hello world");
