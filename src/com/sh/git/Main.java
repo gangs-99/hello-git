@@ -23,7 +23,7 @@ public class Main {
 	} // main() end
 	
 	public void feature() {
-		
+		System.out.println("master!");
 	} // feature() end
 
 } // class end
